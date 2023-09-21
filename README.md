@@ -22,3 +22,4 @@ Choose one of the following options:
 -   Integration with [Sauce Labs](https://saucelabs.com/)
 -   Example using [GitHub Actions](https://github.com/features/actions)
     ∂
+    A
